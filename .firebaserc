@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-store-37e89": {
+      "hosting": {
+        "angular-example": [
+          "angular-store-37e89"
+        ]
+      }
+    }
+  }
+}
